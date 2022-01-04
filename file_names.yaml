@@ -1,0 +1,15 @@
+---
+raw:
+ feature_names: Feature_Labels.csv
+ feature_categories: Feature_Categories.csv
+ feature_matrix: FeatureMatrix.csv # feature matrix
+ outcomes: Outcomes.csv
+processed:
+ x_train: FeatureTrain.csv
+ x_valid: FeatureValid.csv
+ x_test: FeatureTest.csv
+ y_train: OutcomesTrain.csv
+ y_valid: OutcomesValid.csv
+ y_test: OutcomesTest.csv
+
+
